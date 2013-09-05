@@ -1,0 +1,19 @@
+body {
+  background-color: #666;
+  margin: 0;
+}
+body.pass {
+  background-color: green;
+}
+body.fail {
+  background-color: red;
+}
+#testResult {
+  color: #fff;
+  font-family: monospace;
+  font-size: 3em;
+  font-weight: bold;
+  margin: 3em auto 0;
+  padding: 0 1em;
+  text-align: center;
+}
