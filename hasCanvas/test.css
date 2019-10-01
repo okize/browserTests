@@ -3,7 +3,7 @@ body {
   margin: 0;
 }
 body.pass {
-  background-color: green;
+  background-image: linear-gradient(#22c1c3,#fdbb2d);
 }
 body.fail {
   background-color: red;
